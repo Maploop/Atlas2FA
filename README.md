@@ -13,6 +13,7 @@ Advanced 2FA Library for java
 Replace **Tag** with the version you see above this line
 <details>
     <summary>Maven</summary>
+
 ```xml
 <dependency>
 	    <groupId>com.github.Maploop</groupId>
@@ -23,6 +24,7 @@ Replace **Tag** with the version you see above this line
 </details>
 <details>
     <summary>Gradle</summary>
+
 ```
 implementation 'com.github.Maploop:Atlas2FA:Tag'
 ```
