@@ -33,6 +33,10 @@ Replace **Tag** with the version you see above this line
     <summary>Gradle</summary>
 
 ```
+repositories {
+	maven { url 'https://jitpack.io' }
+}
+    
 implementation 'com.github.Maploop:Atlas2FA:Tag'
 ```
 </details>
