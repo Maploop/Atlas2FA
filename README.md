@@ -17,10 +17,15 @@ Replace **Tag** with the version you see above this line
     <summary>Maven</summary>
 
 ```xml
+<repository>
+    <id>jitpack.io</id>
+    <url>https://jitpack.io</url>
+</repository>
+
 <dependency>
-	    <groupId>com.github.Maploop</groupId>
-	    <artifactId>Atlas2FA</artifactId>
-	    <version>Tag</version>
+   <groupId>com.github.Maploop</groupId>
+   <artifactId>Atlas2FA</artifactId>
+   <version>Tag</version>
 </dependency>
 ```
 </details>
