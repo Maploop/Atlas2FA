@@ -10,6 +10,7 @@ Advanced 2FA Library for java
 #### Import Atlas 2FA into your project
 
 [![](https://jitpack.io/v/Maploop/Atlas2FA.svg)](https://jitpack.io/#Maploop/Atlas2FA)
+
 Replace **Tag** with the version you see above this line
 <details>
     <summary>Maven</summary>
