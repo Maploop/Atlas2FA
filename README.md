@@ -5,6 +5,7 @@
 [![](https://jitpack.io/v/Maploop/Atlas2FA.svg)](https://jitpack.io/#Maploop/Atlas2FA)
 
 Advanced 2FA Library for java
+[Java Docs](https://maploop.github.io/Atlas2FA/)
 
 ## Getting started
 #### Import Atlas 2FA into your project
