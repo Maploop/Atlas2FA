@@ -11,8 +11,8 @@ Advanced 2FA Library for java
 
 [![](https://jitpack.io/v/Maploop/Atlas2FA.svg)](https://jitpack.io/#Maploop/Atlas2FA)
 Replace **Tag** with the version you see above this line
-<details open>
-<summary>Maven</summary>
+<details>
+    <summary>Maven</summary>
 ```xml
 <dependency>
 	    <groupId>com.github.Maploop</groupId>
@@ -21,8 +21,8 @@ Replace **Tag** with the version you see above this line
 </dependency>
 ```
 </details>
-<details open>
-<summary>Gradle</summary>
+<details>
+    <summary>Gradle</summary>
 ```
 implementation 'com.github.Maploop:Atlas2FA:Tag'
 ```
